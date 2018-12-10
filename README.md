@@ -6,6 +6,11 @@ I am a computer science student who is teaching herself to code. This is a small
 
 * I want to learn how to use PHP to work with JSON files. I really had no idea how to get PHP to print out multi-dimensional arrays especially ones that don't contain the same amount of items. Some Pokemon have 6 different charged attacks and some have just two. I was looking for array.length but, have yet to find it in PHP. I used for loops to get past these parts. I'll keep looking.
 * I want to work more with Bootstrap .card-columns. They give me a headache. I can't get them to respond right for medium and iPad sizes. I have read this is a problem with the Chrome browser and I use Chrome so it might be that.
+* I'd like to learn more about how Pokemon Go works and the game mechanics. Reading info from the current game file can help me to learn what new Pokemon will be coming out soon and which new evolutions will be in the game soon. You can learn this pretty much anywhere but, its a fun way to keep me motivated to become better at programming. Every time I edit something or put something on GitHub I get a green square. That's like a game in itself. I wanna be the very best like no one ever was... woot woot! Its late...
+
+# The Working Version
+
+[Pokemon Project](https://www.unicornpoint.net/pokemon)
 
 # Future Dreams 12/10/2018
 
